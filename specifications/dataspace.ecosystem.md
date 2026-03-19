@@ -37,7 +37,7 @@ The registration system is run by the [=Dataspace Governance Authority=] and is 
 catalogs, perform data transfers, or provide application functionality. A [=participant=] MAY run the following
 identity-related agents. Note that this is a logical description and MAY not represent an actual deployment topology.
 
-<dfn data-lt="sts | Secure Token Service">Security Token Service (STS).</dfn>
+<dfn data-lt="sts | Secure Token Service">Secure Token Service (STS).</dfn>
 
 The STS creates self-issued authorization tokens that contain identity claims used by [=participant agents=] under the
 control of the same [=participant=].
