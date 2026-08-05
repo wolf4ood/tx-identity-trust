@@ -91,7 +91,8 @@
         },
         "credentials": {
           "@id": "dcp:credentials",
-          "@type": "@json"
+          "@type": "@json",
+          "@container": "@set"
         }
       }
     },
